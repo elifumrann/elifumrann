@@ -1,4 +1,4 @@
-<h1># 💫 About Me:</h1>
+# 💫 About Me:
 YB DIGITAL şirketinde veri bilimi alanında çalışıyorum
 
 

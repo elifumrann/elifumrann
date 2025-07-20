@@ -2,7 +2,7 @@
 
 ## 🌐 Socials:
 <div align="center">
-  [LinkedIn](https://www.linkedin.com/in/elifümranölmez)
+   [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/elif%C3%BCmran%C3%B6lmez/)(https://www.linkedin.com/in/elifümranölmez)
 
 </div>
 

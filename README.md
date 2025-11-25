@@ -2,9 +2,10 @@
 ## 🌐 Socials
 <div align="center">
 
-[<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/elifümranölmez)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn" />](https://www.linkedin.com/in/elifümranölmez)
 
 </div>
+
 
 
 # 💻 Tech Stack:
